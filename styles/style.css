@@ -210,9 +210,7 @@ h4 {
 }
 
 
-.text2-btn {
-    
-}
+.text2-btn {}
 
 .text2-button {
     width: 250px;
@@ -234,16 +232,91 @@ h4 {
 /* section Some Facts */
 /* section Some Facts */
 
-.some-facts-container{
-
+.some-facts-container {
+    padding-left: 170px;
 }
-.some-h2{
+
+.some-h2 {
     color: #131313;
     width: 258px;
-height: 53px;
-font-weight: 700;
-font-size: 45px;
+    height: 53px;
+    font-weight: 700;
+    font-size: 45px;
 }
-.some-facts-p{
+
+.some-facts-p {
+    font-weight: 400;
+    font-size: 14px;
+    color: #727272;
+}
+
+/* -----------------------------------
+               icon style
+--------------------------------------- */
+.iconmane-container {
+    display: flex;
+    justify-content: center;
+    gap: 115px;
+    padding-top: 80px;
+}
+
+.icon-container {
+    text-align: center;
+    border: 2px solid rgb(228, 138, 2);
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
 
 }
+
+.icon-img {
+    width: 45px;
+    height: 45px;
+    padding-top: 10px;
+}
+
+.icon-h2 {
+    margin: none;
+    color: #424242;
+}
+
+.icon-p {
+    color: #727272;
+    font-weight: 200;
+    font-size: 15px;
+    color: #424242;
+
+}
+
+/* Our Sponspors style */
+/* Our Sponspors style */
+
+.some-facts-container2 {
+    padding-top: 60px;
+}
+
+.some-h22 {
+    color: #131313;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+}
+
+.some-facts-p2 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #727272;
+    text-align: center;
+}
+
+/* last section style */
+/* last section style */
+.last-container {
+   
+}
+
+.img-last {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-evenly;}
+    

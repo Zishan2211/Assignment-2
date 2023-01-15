@@ -153,6 +153,18 @@ h3 {
     padding-top: 150px;
     padding-left: 160px;
 }
+.hrline{
+    display: flex;
+}
+hr{
+    background-color: orange;
+    width: 3px;
+    height: 80px;
+    margin: 0%;
+    border: none;
+    padding-bottom: 80px;
+
+}
 
 h1 {
     color: #131313;
@@ -160,7 +172,7 @@ h1 {
     font-size: 40px;
     width: 468px;
     height: 106px;
-    padding-left: 25px;
+    padding-left: 10px;
 }
 
 .text2-pagaraph {
@@ -282,7 +294,7 @@ h4 {
 }
 
 .icon-p {
-    color: #727272;
+    
     font-weight: 200;
     font-size: 15px;
     color: #424242;
@@ -346,3 +358,7 @@ h4 {
     font-size: 15px;
     padding-top: 20px;
 }
+
+/* test test test test */
+/* test test test test */
+/* test test test test */

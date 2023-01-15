@@ -311,12 +311,35 @@ h4 {
 
 /* last section style */
 /* last section style */
-.last-container {
-   
-}
+.last-container {}
 
 .img-last {
     padding-top: 50px;
     display: flex;
-    justify-content: space-evenly;}
-    
+    justify-content: space-evenly;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+/* footer footer footer */
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.footer-container {
+    background: #FFF4E7;
+    border-radius: 8px;
+    width: 1100px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer-p {
+    color: #424242;
+    font-weight: 200;
+    font-size: 15px;
+}
